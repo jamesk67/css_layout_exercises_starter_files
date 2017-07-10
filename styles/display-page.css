@@ -1,0 +1,43 @@
+body {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0;
+}
+
+div {
+	border: 1px black solid;
+	font-size: 0;
+}
+
+.inner1 {
+	height: 200px; 
+	width: 50%;
+	font-size: 0;
+}
+
+.inner2 {
+	height: 300px;
+	width: 33.3%;
+	font-size: 0;
+}
+
+.inner1-green {
+	background-color: green;
+}
+
+.inner1-blue {
+	background-color: blue;
+}
+
+.inner2-gray {
+	background-color: gray;
+}
+
+.inner2-black {
+	background-color: black;
+}
+
+.inner2-orange {
+	background-color: orange;
+}
